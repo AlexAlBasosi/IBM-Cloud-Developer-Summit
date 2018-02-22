@@ -1,0 +1,5 @@
+applications:
+- path: .
+  memory: 64M
+  name: alexanderalbasosi
+  buildpack: staticfile_buildpack
