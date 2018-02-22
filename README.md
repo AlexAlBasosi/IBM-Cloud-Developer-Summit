@@ -37,7 +37,7 @@ If you're running on Mac, open up the terminal
 
 Navigate to the folder with the application files using 'cd' followed by the folder path 
 
-![newcd](images/newcd.PNG)
+![newcd](images/newcd)
 
 Log into your IBM Cloud account through the CLI with the following command: 
 
@@ -60,9 +60,9 @@ And voila! There you go, you just deployed a portfolio website.
 
 You can visit your app via the URL which can be found at the end of the ```bx app push``` command or from the IBM Cloud dashboard.
 
-![url](images/url.PNG)
+![url](images/url)
 
-![urldb](images/urldb.PNG)
+![urldb](images/urldb)
 
 
 
