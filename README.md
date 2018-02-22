@@ -47,7 +47,7 @@ Select the organization and space in which you would create the app.
 
 You can get these details from the IBM Cloud dashboard.
 
-The organizatoin name usually is the same as your email and the space is usually called 'dev'. 
+The organization name usually is the same as your email and the space is usually called 'dev'. 
 
 ``` bx target -o organization_name -s space_name ```
 
