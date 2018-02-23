@@ -4,7 +4,7 @@
 
 ### Step 1: Sign up for IBM Cloud and download CLI
 
-Go to http://ibm.biz/astrolabs, click 'Create a free account' 
+Go to http://ibm.biz/devsummit, click 'Create a free account' 
 
 ![1](images/1.PNG)
 
